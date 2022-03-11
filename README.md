@@ -60,7 +60,8 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording]("C:\Users\julio\OneDrive\Documents\Zoom\2022-03-11 11.23.50 Julio Briceno's Zoom Meeting\video1410176373.mp4")
+[My 5-minute Interview Recording]  
+https://youtu.be/grZIkCebMy8
 
 ## License
 
