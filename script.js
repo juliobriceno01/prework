@@ -70,10 +70,10 @@ o.connect(g)
 o.start(0)
 
 function lightButton(btn){
-  document.getElementsByClassName("button"+btn).classList.add("lit");
+  document.getElementsByClassName("button"+btn).classList.add("lit")
 }
 function clearButton(btn){
-  document.getElementsByClassName("button"+btn).classList.remove("lit");
+  document.getElementsByClassName("button"+btn).classList.remove("lit")
 }
 
 function playSingleClue(btn){
@@ -91,7 +91,7 @@ function playClueSequence(){
   for(let i=0;i<=progress;i++){ // for each clue that is revealed so far
     console.log("play single clue: " + pattern[i] + " in " + delay + "ms")
     setTimeout(playSingleClue,delay,pattern[i]) // set a timeout to play that clue
-    delay += clueHoldTime 
+    delay += clueHoldTime
     delay += cluePauseTime;
   }
 }
