@@ -6,7 +6,7 @@ Submitted by: Julio Briceno
 
 Time spent: 4 hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...) https://2a425560-f32f-4915-9133-ac1b0d63d009@api.glitch.com/git/nine-rainy-dormouse
+Link to project: (insert your link here, should start with https://glitch.com...)
 
 ## Required Functionality
 
