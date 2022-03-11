@@ -47,16 +47,16 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ## Reflection Questions
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
-   [YOUR ANSWER HERE]
+   [FreecodeCamp, learnjavascript.org, Youtube.]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
-   [YOUR ANSWER HERE]
+   [The biggest challenge I encountered was the lack of knowledge I have with JavaScript. In the last year I've always wanted to be more involved by creating a few websites and learn a lot of HTML5 and CSS3, but I've been careless with JS. So certainly, after I was done with the HTML and CSS part, I encountered myself with a big brick wall trying to do the JS part, the part that took most of my time. Even though I’ve done a few small projects for fun and to gain knowledge, I’ve never implemented any JS on them, I’ve done some JS in the past with learnjavascript.org, Freecodecamp and Udemy. Although, I have learned to solve problems and write some of my own, I’ve never known how to mix them with HTML and CSS. So, for me, that was the biggest issue, the CSS cubes were easy to make with the divs and HTML wise there was not much to do, but the way that I could put the two buttons together was completely new to me. Overall, when it came down to JS, even though I knew and worked with functions, const, var, if and else statements, the things implemented inside the functions were a whole different subject to me that I’ve never tackled once. Not only that, but the way you fused two buttons into one. I would be very glad to do keep learning with you.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
-   [YOUR ANSWER HERE]
+   [After completing the assignment, one of the questions I have is how to exactly implement JS with HTML and CSS, it’s already very interesting the work those two can make by their own but I would like to know how to add JS into the mix to see what other things I would be able to make. Moreover, I’m very curious in how to make websites or webapps using only JS. Which brings me to my other question, what’s the difference that React can make when it comes down to using JS. Besides, not only React but I would like to know how difference frameworks(React and Angular) and different styles tools like Bootstrap can help with the front-end section.]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
-   [YOUR ANSWER HERE]
+   [If I’d have had more hours to do the project and the knowledge, I would have like to do different levels of difficulty to give the user more hours of entertainment with bigger challenges so he/she wouldn’t get tired or bored with the game. Besides, I would have loved to have an option so that instead of using colors, we would use images related to a topic that the user would have selected at the beginning, for example, the user at the beginning would have the option to use a topic so that it would be shown in the buttons, if the user would have selected movies, the panel would change to a movie poster every time he/she clicked it, not only with movies but videogames, sports, and music too.]
 
 ## Interview Recording URL Link
 
